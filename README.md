@@ -6,8 +6,8 @@ This repository contains UI automation tests for issuing invoices. The test file
 
 Before running the tests, make sure to have the appropriate drivers installed:
 
-- **Python**: Python needs to be installed on your machine. If it is not already installed, download and install the latest version
-- **For Chrome**: Download and install [ChromeDriver].
+- **Python**: Python needs to be installed on your machine. If it is not already installed, download and install the latest version of [Python](https://www.python.org/downloads/).
+- **For Chrome**: Download and install [ChromeDriver](https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json).
 
 ## Test Notes
 - I have included the flow that was described in the assignment sent in the email. The test coveres basic assertions to verify that the invoices have the correct amounts and items displayed.
