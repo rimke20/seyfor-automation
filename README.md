@@ -13,6 +13,7 @@ Before running the tests, make sure to have the appropriate drivers installed:
 - I have included the flow that was described in the assignment sent in the email. The test coveres basic assertions to verify that the invoices have the correct amounts and items displayed.
 - If I were to continue developing the tests I would add deletion of customers and articles in my teardown method.
 - Test were run only on Chrome browser, if the case was to cover everything additional browsers would have been added.
+- time.sleep() method is used in the test file, I have used this due to time constraint on my side otherwise I would have structured the tests without the time.sleep() method or keep it at a minimum if no other solutions were possible.
 
 ## How to Run
 
